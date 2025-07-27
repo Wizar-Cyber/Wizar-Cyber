@@ -28,20 +28,26 @@
 - 🌱 Siempre aprendiendo y practicando labs técnicos
 
 ---
-
 ### 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href="https://reiberlozano.netlify.app">
-    <img src="https://img.shields.io/badge/Portafolio-00FF88?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="mailto:lozanoreiber1@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/96/gmail-new.png" alt="gmail" height="50" width="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/reiberlozano">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/reiberlozano" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/>
   </a>
-  <a href="mailto:lozanoreiber1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/ripreverse" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"/>
+  </a>
+  <a href="https://www.instagram.com/ripreverse" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"/>
+  </a>
+  <a href="https://reiberlozano.netlify.app" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/96/domain.png" alt="portfolio" height="50" width="50"/>
   </a>
 </p>
+
 
 ---
 
@@ -64,6 +70,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif?raw=true" alt="Dino gif" />
+</p>
+
+
+---
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color:#00FF88;">📊 Estadísticas de GitHub</h2>
@@ -83,4 +95,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Footer SVG"/>
+</p>
+
+<!--Footer GIF-->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
