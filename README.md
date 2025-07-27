@@ -1,12 +1,13 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://chat.openai.com/share-static/user-uploads/file_00000000d05461f88214f763d5915c84.png" height="200"/>
+  <img src="https://github.com/Wizar-Cyber/Wizar-Cyber/blob/main/BanerReiber.png" height="200"/>
 </p>
 
 <!-- Typing Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=32&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Reiber+Lozano;Analista+en+Ciberseguridad+y+Desarrollador+de+Software+Seguro" alt="Typing Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=32&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Reiber+Lozano;Analista+en+Ciberseguridad;Desarrollador+de+Software+Seguro" alt="Typing Title">
 </div>
+
 
 ---
 
