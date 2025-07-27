@@ -94,9 +94,6 @@
 <p align="center" style="color:#ffffff">✨ Si te gusta mi trabajo, ¡dale ⭐ y compártelo!</p>
 <p align="center" style="color:#00FF88">Desarrollado con pasión por Reiber Lozano</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Footer SVG"/>
-</p>
 
 <!--Footer GIF-->
 <p align="center">
