@@ -22,7 +22,7 @@
 
 ## 🧠 Sobre mí
 
-Soy **Reiber Lozano**, estudiante de **Ingeniería de Software** (8.° semestre) en la **Fundación Universitaria María Cano**, Medellín 🇨🇴, y fundador de **SmartFlow Automatización** — una operación técnica orientada a construir soluciones reales con IA, automatización de procesos y desarrollo fullstack.
+Soy **Reiber Lozano**,  **Ingeniero de Software** de la **Fundación Universitaria María Cano**, Medellín 🇨🇴, y fundador de **SmartFlow Automatización** — una operación técnica orientada a construir soluciones reales con IA, automatización de procesos y desarrollo fullstack.
 
 Me muevo en la intersección de tres dominios:
 
